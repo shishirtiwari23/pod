@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/shishirtiwari23/pod-backend.git
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/shishirtiwari23/pod-simulator.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shishirtiwari23/pod-frontend.git
