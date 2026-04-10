@@ -58,3 +58,7 @@ To match industry standards (e.g. OpenAI Realtime API, LiveKit), operations movi
 
 ---
 _Add new components via `/architect` — never manually without running `/map-sync` after_
+
+---
+## External Agentic Intelligence
+**Full Catalog**: Please refer to [External Skills Map](file:///Users/shishir/Base/Web/personal/pod/.agents/EXTERNAL-SKILLS-MAP.md) for 282 autonomous capabilities imported from `claude-skills-main` (spanning domains from engineering automation, debugging, to C-suite/business scaling). The `/skill-finder` is configured to utilize this external catalog heavily!

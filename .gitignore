@@ -57,6 +57,7 @@ coverage/
 # -----------------------------
 .tmp/
 .cache/
+claude-skills-main
 
 # -----------------------------
 # Submodules (IMPORTANT NOTE)
