@@ -1,0 +1,6 @@
+[build]
+  base = "simulator"
+  # Since it's a pure HTML file, we don't need webpack or react-scripts
+  command = "echo 'No build command required for static HTML'"
+  # Publish the same folder we are in
+  publish = "."
